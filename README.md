@@ -23,7 +23,7 @@ To complete this assignment, you must complete the following steps:
 1. Modify the content of the title tag to be "Hello World"
 1. Create a `css` directory in the root of your project.
 1. Add a `style.css` file to the `css` directory.
-1. Add a `link` tag to import the css file into the index.html file. You can place the link tag directory under the `<title>` tag.  It should look like this: `  <link href="css/style.css" rel="stylesheet">`
+1. Add a `link` tag to import the css file into the index.html file. You can place the link tag directory under the `<title>` tag.  It should look like this: ` 
 1. Add an `h1` (header) tag to the body of the index.html file. The content of the `h1` tag should be "Hello World"
 1. In the style.css file add text color and background color to your page with an entry like this:
 ```
